@@ -38,7 +38,7 @@ This project is a machine learning web app for predicting the price of used cars
 
 1. Clone the repository:
    ```sh
-   git clone 
+   git clone "https://github.com/Shajil-02/used-cars-price-prediction.git"
    cd used cars
    ```
 
