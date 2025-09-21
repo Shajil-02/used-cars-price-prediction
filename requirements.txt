@@ -1,0 +1,5 @@
+scikit-learn #for ML model
+streamlit #for web app
+pandas #for data manipulation
+pickle #for loading the model
+babel #to simplify currency formatting
